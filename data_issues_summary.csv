@@ -1,0 +1,30 @@
+File,Issue
+last12weeks_gram_madhya_pradesh_weekly.csv,Missing years in sequence: [2009]
+last12weeks_gram_odisha_weekly.csv,Only 6 years of data
+last12weeks_gram_odisha_weekly.csv,"Missing years in sequence: [2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018]"
+last12weeks_gram_tamil_nadu_weekly.csv,"Missing years in sequence: [2001, 2006, 2007, 2008, 2009, 2011, 2013]"
+last12weeks_massor_jharkhand_weekly.csv,"Missing years in sequence: [2008, 2016]"
+last12weeks_massor_madhya_pradesh_weekly.csv,Missing years in sequence: [2009]
+last12weeks_massor_odisha_weekly.csv,Only 5 years of data
+last12weeks_massor_odisha_weekly.csv,"Missing years in sequence: [2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018]"
+last12weeks_massor_telangana_weekly.csv,Only 3 years of data
+last12weeks_massor_uttar_pradesh_weekly.csv,"Missing years in sequence: [2004, 2005]"
+last12weeks_mustard_andhra_pradesh_weekly.csv,Missing years in sequence: [2007]
+last12weeks_mustard_karnataka_weekly.csv,"Missing years in sequence: [2006, 2007]"
+last12weeks_mustard_madhya_pradesh_weekly.csv,Missing years in sequence: [2009]
+last12weeks_mustard_maharashtra_weekly.csv,"Missing years in sequence: [2013, 2014, 2015]"
+last12weeks_mustard_odisha_weekly.csv,Only 4 years of data
+last12weeks_mustard_tamil_nadu_weekly.csv,"Missing years in sequence: [2001, 2006, 2007, 2008, 2009, 2010, 2012]"
+last12weeks_mustard_telangana_weekly.csv,"Missing years in sequence: [2007, 2012]"
+last12weeks_potato_chhattisgarh_weekly.csv,"Missing years in sequence: [2009, 2010]"
+last12weeks_potato_jharkhand_weekly.csv,"Missing years in sequence: [2017, 2018, 2019]"
+last12weeks_potato_karnataka_weekly.csv,Missing years in sequence: [2006]
+last12weeks_potato_telangana_weekly.csv,Only 9 years of data
+last12weeks_potato_uttarakhand_weekly.csv,"Missing years in sequence: [2003, 2004, 2005]"
+last12weeks_rabi_rice_jharkhand_weekly.csv,Only 1 years of data
+last12weeks_rabi_rice_uttarakhand_weekly.csv,Only 6 years of data
+last12weeks_rabi_rice_uttarakhand_weekly.csv,"Missing years in sequence: [2003, 2004, 2005, 2007, 2008]"
+last12weeks_wheat_andhra_pradesh_weekly.csv,"Missing years in sequence: [2007, 2012]"
+last12weeks_wheat_madhya_pradesh_weekly.csv,Missing years in sequence: [2009]
+last12weeks_wheat_odisha_weekly.csv,Only 4 years of data
+last12weeks_wheat_tamil_nadu_weekly.csv,Only 1 years of data
